@@ -52,3 +52,8 @@
    <a href = "mailto:biancagboliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 </div>
+ 
+ ![anime3](https://user-images.githubusercontent.com/100356539/197684591-1dd97cf3-020b-4af7-a311-be779f11fb37.png)
+![anime4](https://user-images.githubusercontent.com/100356539/197684799-d0331ae2-d891-4970-99e3-c4b5d7a5728f.png)
+![anime5](https://user-images.githubusercontent.com/100356539/197685050-4febdd4d-ecef-4110-8608-ec62fa2d8713.gif)
+![anime6](https://user-images.githubusercontent.com/100356539/197685236-39304f2e-59ed-4b6d-816c-e48053d1fa7e.gif)
