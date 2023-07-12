@@ -7,7 +7,8 @@
 
  <hr>
 
-- 📔 Estou fazendo um curso de Programação Full Stack no [IOS - Instituto da Oportunidade Social](https://ios.org.br/).
+- Cursando 3º semestre em Ciência da Computação na Universidade UniRitter.
+- 📔 Formada em Programação Full Stack pelo [IOS - Instituto da Oportunidade Social](https://ios.org.br/).
 - Estou me aperfeiçoando em inglês.
 - ✉️ Podemos conversar sobre JavaScript, MySQL e animes.
 - 🎞️ Gosto de ouvir musica e assistir filmes de fantasia.
