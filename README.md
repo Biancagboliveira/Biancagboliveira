@@ -7,7 +7,7 @@
 
  <hr>
 
-- Cursando 3º semestre em Ciência da Computação na Universidade UniRitter.
+- Cursando 3º semestre em Ciência da Computação na Universidade Fadergs.
 - 📔 Formada em Programação Full Stack pelo [IOS - Instituto da Oportunidade Social](https://ios.org.br/).
 - Estou me aperfeiçoando em inglês.
 - ✉️ Podemos conversar sobre JavaScript, MySQL e animes.
