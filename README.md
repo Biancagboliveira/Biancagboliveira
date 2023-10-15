@@ -1,6 +1,6 @@
 # Bianca Oliveira - @biancagboliveira
 
- Olá, sou a Bianca, universitária na UniRitter. Estou sempre procurando entender um pouco mais de programação.
+ Olá, sou a Bianca, universitária na Fadergs. Estou sempre procurando entender um pouco mais de programação.
  <br>
 
  Iniciei os estudos em Ciência da Computação em janeiro de 2022 e, desde então, venho criando projetos para implementar meu portfólio.
