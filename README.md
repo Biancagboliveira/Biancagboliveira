@@ -3,11 +3,11 @@
  Olá, sou a Bianca, universitária na Fadergs. Estou sempre procurando entender um pouco mais de programação.
  <br>
 
- Iniciei os estudos em Ciência da Computação em janeiro de 2022 e, desde então, venho criando projetos para implementar meu portfólio.
+ Iniciei os estudos em Ciência da Computação em janeiro e, desde então, venho criando projetos para implementar meu portfólio.
 
  <hr>
 
-- Cursando 3º semestre em Ciência da Computação na Universidade Fadergs.
+- Cursando Ciência da Computação na Universidade Fadergs.
 - 📔 Formada em Programação Full Stack pelo [IOS - Instituto da Oportunidade Social](https://ios.org.br/).
 - Estou me aperfeiçoando em inglês.
 - ✉️ Podemos conversar sobre JavaScript, MySQL e animes.
