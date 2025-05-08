@@ -1,4 +1,4 @@
-# Bianca Oliveira - @biancagboliveira
+# Bianca Gomes Barbosa de Oliveira - @biancagboliveira
 
  Olá, sou a Bianca, universitária na Fadergs. Estou sempre procurando entender um pouco mais de programação.
  <br>
